@@ -1,0 +1,11 @@
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\bin\Debug\netcoreapp2.0\WebApplicationTestrisSau.deps.json
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\bin\Debug\netcoreapp2.0\WebApplicationTestrisSau.runtimeconfig.json
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\bin\Debug\netcoreapp2.0\WebApplicationTestrisSau.runtimeconfig.dev.json
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\bin\Debug\netcoreapp2.0\WebApplicationTestrisSau.dll
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\bin\Debug\netcoreapp2.0\WebApplicationTestrisSau.pdb
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\obj\Debug\netcoreapp2.0\WebApplicationTestrisSau.csprojResolveAssemblyReference.cache
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\obj\Debug\netcoreapp2.0\WebApplicationTestrisSau.csproj.CoreCompileInputs.cache
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\obj\Debug\netcoreapp2.0\WebApplicationTestrisSau.AssemblyInfoInputs.cache
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\obj\Debug\netcoreapp2.0\WebApplicationTestrisSau.AssemblyInfo.cs
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\obj\Debug\netcoreapp2.0\WebApplicationTestrisSau.dll
+C:\Users\triprog-13\source\repos\prog13\WebApplicationTestrisSau\WebApplicationTestrisSau\obj\Debug\netcoreapp2.0\WebApplicationTestrisSau.pdb

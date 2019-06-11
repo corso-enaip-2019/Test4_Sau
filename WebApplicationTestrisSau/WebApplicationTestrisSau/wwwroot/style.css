@@ -1,0 +1,22 @@
+﻿h1 {
+    text-align: center;
+}
+
+main {
+    max-width: 500px;
+}
+table {
+    border-collapse: collapse;
+    border-style: hidden;
+}
+
+td {
+    border: 2px solid black;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+
+#game-table {
+    margin-left: 30px;
+}
